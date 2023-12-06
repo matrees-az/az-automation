@@ -1,2 +1,2 @@
 # az-automation
-Azure automations cripts
+Azure automation scripts
